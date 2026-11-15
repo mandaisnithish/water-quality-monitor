@@ -1,0 +1,20 @@
+# Real credentials: only secrets.example.h is committed
+secrets.h
+**/secrets.h
+
+# Arduino / PlatformIO build output
+build/
+*.bin
+*.elf
+*.hex
+*.map
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Editors and OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
